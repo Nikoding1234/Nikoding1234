@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/Nikoding1234/Nikoding1234/fe5cf96cbe06b3eb53398fe85222c060dbd5fd88/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Nikhil Chopra</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif"> 
 
