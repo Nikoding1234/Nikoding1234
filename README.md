@@ -1,4 +1,4 @@
-![logo](https://github.com/Nikoding1234/Nikoding1234/blob/main/github-header-image.png?raw=true)
+![logo](https://raw.githubusercontent.com/Nikoding1234/Nikoding1234/fe5cf96cbe06b3eb53398fe85222c060dbd5fd88/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Nikhil Chopra</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
